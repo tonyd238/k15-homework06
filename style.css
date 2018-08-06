@@ -1,0 +1,99 @@
+body{
+	margin:0px;
+	background-color: #d1e4ff;
+}
+
+.content{
+	font-family: sans-serif;
+	color: #252525;
+	padding-bottom: 64px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top:53px;
+	width: 980px;
+	background-color: #ffffff;
+}
+.content h1{
+	color: #252525;
+	font-family: sans-serif;
+}
+.content h2{
+	color: #252525;
+	font-family: sans-serif;
+}
+.content h3{
+	color: #252525;
+	font-family: sans-serif;
+}
+.content h4{
+	color: #252525;
+	font-family: sans-serif;
+}
+.content h5{
+	color: #252525;
+	font-family: sans-serif;
+}
+.content h6{
+	color: #252525;
+	font-family: sans-serif;
+}
+.content p{
+	font-size: 16px;
+	color: #252525;
+	font-family: sans-serif;
+}
+.content code{
+	color: #252525;
+	background-color: #f0e6d6;
+}
+.content mark{
+	background-color: #ffff00;
+}
+.content a{
+	color: #3588e5;
+}
+.content kbd{
+	color: #252525;
+	background-color: #eadcea;
+}
+.content samp{
+	color: #252525;
+	background-color: #eadcdc;
+}
+.content blockquote{
+	background-color: #eadcea;
+	padding:10px 30px 10px 30px;
+	margin: 0px;
+}
+.content pre{
+	background-color: #f0e6d6;
+}
+.content ul{
+	margin-top: 13px;
+}
+.content ol{
+	margin-top: 13px;
+}
+.content dt{
+	margin-top:13px;
+	font-style: italic;
+	font-weight: bold; 
+}
+.content table{
+	border-collapse: collapse;
+	border: 1px solid #b496b4;
+  	width: 920px;
+	height: 130px;
+}
+.content th{
+	border: 1px solid #b496b4;
+	text-align: center;
+	background-color: #eadcea;
+	font-weight: normal;
+}
+.content td{
+	padding-left: 12px;
+	border: 1px solid #b496b4;
+}
